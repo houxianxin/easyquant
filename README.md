@@ -10,17 +10,21 @@
 
 行情:支持新浪免费实时行情，集思路分级基金以及 leverfun 的免费十档行情
 
-有兴趣的可以加群 `556050652` 一起交流
 
-欢迎 `star` && `fork`
+### 微信群以及公众号
 
-### 相关
+欢迎大家扫码关注公众号「食灯鬼」，一起交流。进群可通过菜单加我好友，备注量化。
 
-[获取免费实时行情的类库: easyquotation](https://github.com/shidenggui/easyquotation)
+![公众号二维码](https://gitee.com/shidenggui/assets/raw/master/uPic/mp-qr.png)
 
-[实现交易的类库: easytrader](https://github.com/shidenggui/easytrader)
+若二维码因 Github 网络无法打开，请点击[公众号二维码](https://gitee.com/shidenggui/assets/raw/master/uPic/mp-qr.png)直接打开图片。
 
-捐助: [支付宝](http://7xqo8v.com1.z0.glb.clouddn.com/zhifubao2.png)  [微信](http://7xqo8v.com1.z0.glb.clouddn.com/wx.png)
+### Author
+
+**easyquant** © [shidenggui](https://github.com/shidenggui), Released under the [MIT](./LICENSE) License.<br>
+
+> Blog [@shidenggui](https://shidenggui.com) · Weibo [@食灯鬼](https://www.weibo.com/u/1651274491) · Twitter [@shidenggui](https://twitter.com/shidenggui)
+>
 
 ### requirements
 
